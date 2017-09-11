@@ -1,7 +1,9 @@
 
 # Deep Convolutional MNIST Classifier using Tensorflow
 
-This is a convolutional nerual network with 11 conv-layer and 3 fc-layer base on VGG19, I removed 8 conv-layer and 3 pooling layer to make sure all datas fits in my GPU memory. The project is based on github project tensorflow-vgg19 [https://github.com/machrisaa/tensorflow-vgg]
+GitHub Link: [https://github.com/EvanWY/Tensorflow-VGG-MNIST-Classifier](https://github.com/EvanWY/Tensorflow-VGG-MNIST-Classifier)
+
+This is a convolutional nerual network with 11 conv-layer and 3 fc-layer base on VGG19, I removed 8 conv-layer and 3 pooling layer to make sure all datas fits in my GPU memory. The project is based on github project tensorflow-vgg19 ([https://github.com/machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg))
 
 ### Initialization
 MNIST dataset is included in Tensorflow as an example dataset. I choise MNIST because it's relatively smaller and spending less time to train. It's good for practicing CNN and Tensorflow
